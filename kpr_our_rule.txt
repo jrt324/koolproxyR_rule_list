@@ -55,6 +55,7 @@ http://ttmeiju.me##DIV:nth-child(2) > P > A > IMG
 http://ttmeiju.me###footer > DIV:first-child > P > IMG
 ! 谷歌网盘放行
 @@@@|https://drive.google.com
+! 这是一个测试提交
 ! macx.cn
 @@@@|https://www.macx.cn
 ! 直播吧
